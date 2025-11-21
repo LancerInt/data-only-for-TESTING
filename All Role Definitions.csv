@@ -1,0 +1,12 @@
+Role Code,Role Name,Module Permissions,Data Scope,Approval Levels,Default Share Rules,Active Flag
+105,Warehouse Supervisors(s),"Testing 5",Warehouse,Others Request 12000.00 30000.00,"",Active
+104,Warehouse Coordinator(s),"Testing 4",Warehouse,Production Evaluation 12000.00 30000.00,"",Active
+103,Warehouse Manager(s),"Testing 3",Warehouse,Sales Payment 12000.00 30000.00,"",Active
+102,Warehouse Coordinator(Office),"Testing 2",Warehouse,Production Request 12000.00 30000.00,"",Active
+101,Warehouse HR Coordinator,"Testing for role",Warehouse,Sales Evaluation 12000.00 30000.00,"",Active
+123,asdfghjk,"qwertyu",Company,Others Evaluation 12000.00 30000.00,"vgftyuj",Active
+12345,asdfghjk,"asdfghj",Global,Production Request 12000.00 30000.00,"asdfghjk",Active
+741, IT MANAGER,"MANAGER",Company,Purchase Request 10000000.00 10000000.00,"KL",Active
+1000,ENGINEER MANAGER,"YES",Warehouse,Others Payment 100000.00 200000.00,"N/A",Active
+3,DEVELOPER,"CRUD",Company,Production Evaluation 12000.00 30000.00,"",Active
+1,DEVELOPER,"CRUD",Global,Purchase Request,"",Active
