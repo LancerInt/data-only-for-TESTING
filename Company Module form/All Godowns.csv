@@ -1,0 +1,5 @@
+Godown Code,Warehouse,Godown Name,Storage Condition,Capacity UOM,Capacity Value,Batch Tracking Enabled,Default QC Hold Area,Active Flag,Notes
+858,SIDCO IN,SIP,Ambient,,741.00,true,true,true,""
+3,SIDCO IN,IN FORMULATION PLANT,Cold,,,true,false,true,""
+2,UNITED AGRO INDUSTRIES,PACKING&STORAGE,Cold,,,true,true,true,""
+1,UNITED AGRO INDUSTRIES,Manufacturing,Ambient,,,true,true,true,""
